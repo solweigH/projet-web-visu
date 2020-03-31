@@ -11,9 +11,9 @@ L'objectif de ce projet est de modéliser un processus biologique pour une visua
 
 ### Réalisation
 
-*HTML : En plus des éléments de bases essentiels à tout fichiers HTML, (à compléter avec le cours web1) ce document doit permettre de visualiser la modélisation grâce à un canvas.
-*CSS: Ce fichier prend en charge l'aspect extérieur au canvas.
-*JavaScript : 
+* TML : En plus des éléments de bases essentiels à tout fichiers HTML, (à compléter avec le cours web1) ce document doit permettre de visualiser la modélisation grâce à un canvas.
+* CSS: Ce fichier prend en charge l'aspect extérieur au canvas.
+* JavaScript : 
 
 #### Analyse des besoins
 
